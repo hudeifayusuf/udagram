@@ -18,7 +18,7 @@ Parameters:
     MyIP:
         Description: My home IP address to use for the security group of the jumpbox instance.
         Type: String
-        Default: 154.224.145.220/32 # ToDo: Change the the IP address, as applicable to you.
+        Default: 1.2.3.4/32 # ToDo: Change the the IP address, as applicable to you.
 
 
 Resources:
