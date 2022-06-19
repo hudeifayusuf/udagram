@@ -1,5 +1,7 @@
 ## Project Title - Deploy a high-availability web app using CloudFormation
 This project deploys the infrastructure and application for an Instagram-like app from the ground up. You will begin with deploying the networking components, followed by servers, security roles and software.
+To verify the web app is working, [click here!](http://serve-WebAp-1A4UPMDVQDBDF-1234618749.us-east-1.elb.amazonaws.com)
+
 
 ### Infrastructure Diagram
 ![infra-diagram](infra-diagram.png)
